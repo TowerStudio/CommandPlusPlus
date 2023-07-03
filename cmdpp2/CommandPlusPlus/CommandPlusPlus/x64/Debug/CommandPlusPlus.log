@@ -1,2 +1,3 @@
-﻿  cmdpp.cpp
-  CommandPlusPlus.vcxproj -> C:\Users\Administrator\Desktop\cmdpp2\CommandPlusPlus\x64\Debug\CommandPlusPlus.exe
+﻿  CommandPlusPlus.vcxproj -> C:\Users\Administrator\Desktop\cmdpp2\CommandPlusPlus\x64\Debug\CommandPlusPlus.exe
+  CommandPlusPlus.vcxproj -> C:\Users\Administrator\Desktop\cmdpp2\CommandPlusPlus\x64\Debug\CommandPlusPlus.pdb (部分 -> 完整 PDB)
+C:\Users\Administrator\Desktop\cmdpp2\CommandPlusPlus\x64\Debug\CommandPlusPlus.pdb : fatal error CMF1107: 
